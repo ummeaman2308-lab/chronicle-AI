@@ -1,4 +1,4 @@
 # chronicle-AI
 It's my final project
 <br>
-Programmer:Emaan
+Programmer:Emaan tahir
